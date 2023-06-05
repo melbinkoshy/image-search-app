@@ -1,4 +1,4 @@
-const apiKey='';
+const apiKey='YOUR_UNSPLASH_API_KEY';
 const formEl=document.querySelector('form');
 const searchInputEl=document.querySelector('#search-input')
 const searchResultsEl=document.querySelector('.search-results')
